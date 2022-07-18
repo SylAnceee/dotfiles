@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amauryloziron@gmail.com
+	name = Amaury Breuil
